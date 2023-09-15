@@ -1,4 +1,4 @@
-# Swisstronik Weekly Challenge #1      
+# LearnWeb3DAO <> Swisstronik Challenge #1      
 
 💰 Bounty: https://learnweb3.io/bounties/swisstronik-challenge-1/   
 📚 Guide: https://swisstronik.gitbook.io/swisstronik-docs/build-on-swisstronik/contract-deployment-hardhat   
